@@ -2,7 +2,7 @@
   "name": "vue-quickstart",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "李凤焕 <huanent@hotmail.com>",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -54,7 +54,7 @@
     "webpack-merge": "^4.1.0"
   },
   "engines": {
-    "node": ">= 4.0.0",
+    "node": ">= 5.0.0",
     "npm": ">= 3.0.0"
   },
   "browserslist": [
